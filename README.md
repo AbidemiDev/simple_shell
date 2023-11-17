@@ -1,0 +1,1 @@
+A simple shell is a basic command-line interface program that allows users to interact with a computers operating system. It provides a simple way for users to enter commands and receive output from those commands.
